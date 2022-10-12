@@ -4,6 +4,9 @@
 .grid__4 {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+
 }
 
 .grid__2>div:nth-child(1) {
@@ -42,11 +45,12 @@
   order: 1;
 }
 
-.grid__item--big {
-  width: calc(50% - 20px);
-  margin: 10px;
+.grid__itemBig {
+  width: calc(25% - 20px);
+  margin: 20px;
   height: 500px;
-  background-color: deeppink;
+
+
 
 }
 
@@ -54,5 +58,7 @@
   width: calc(25% - 20px);
   margin: 10px;
   height: 500px;
-  background-color: #ff8fcb;
+
+
+
 }
