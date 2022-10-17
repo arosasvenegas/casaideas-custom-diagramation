@@ -48,7 +48,7 @@ También debemos agregar `store` dentro `builders`, para que nuestro componente 
 }
 ```
 
-Por ultimo, agregaremos las dependencias necesarias para el componente que estamos creando. Estas pueden varias, ya que, van acorde con el componente que se esta creando. En este caso para quick order, se utilizaron las siguientes:
+Por ultimo, agregaremos las dependencias necesarias para el componente que estamos creando. Estas pueden varias, ya que, van acorde con el componente que se esta creando. En este caso para custom diagramation, se utilizaron las siguientes:
 
 ```json
 {
