@@ -2,7 +2,7 @@
 
 Componente customizado el cual crea una grilla interactiva, que este caso añadiremos imagenes.
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![grilla](https://user-images.githubusercontent.com/73150391/196823964-7329ce3c-9458-4416-b46f-0efe8e2cac2e.PNG)
 
 ## Configuración 
 
